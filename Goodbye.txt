@@ -1,2 +1,3 @@
+print("Goodbye my friend.")
 print("Goodbye everybody.")
 
